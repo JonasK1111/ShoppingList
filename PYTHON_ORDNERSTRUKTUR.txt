@@ -1,3 +1,5 @@
+###### So soll die standartisierte Python-Ordnerstruktur aussehen ######
+
 shopping_list_project/          <-- Wurzelverzeichnis (Root)
 │
 ├── shopping_list/              <-- Das eigentliche Python-Paket (Source Code)
