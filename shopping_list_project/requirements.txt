@@ -1,0 +1,3 @@
+# tkinter ist in Python (stdlib) enthalten und muss i.d.R. nicht installiert werden.
+# pytest nur, falls ihr Tests ausführen wollt:
+# pytest
